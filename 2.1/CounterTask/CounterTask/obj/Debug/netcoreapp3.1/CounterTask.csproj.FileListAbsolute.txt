@@ -1,0 +1,13 @@
+G:\My Drive\Uni\SEMESTER 2\OOP\LABS\2.1\CounterTask\CounterTask\bin\Debug\netcoreapp3.1\CounterTask.exe
+G:\My Drive\Uni\SEMESTER 2\OOP\LABS\2.1\CounterTask\CounterTask\bin\Debug\netcoreapp3.1\CounterTask.deps.json
+G:\My Drive\Uni\SEMESTER 2\OOP\LABS\2.1\CounterTask\CounterTask\bin\Debug\netcoreapp3.1\CounterTask.runtimeconfig.json
+G:\My Drive\Uni\SEMESTER 2\OOP\LABS\2.1\CounterTask\CounterTask\bin\Debug\netcoreapp3.1\CounterTask.runtimeconfig.dev.json
+G:\My Drive\Uni\SEMESTER 2\OOP\LABS\2.1\CounterTask\CounterTask\bin\Debug\netcoreapp3.1\CounterTask.dll
+G:\My Drive\Uni\SEMESTER 2\OOP\LABS\2.1\CounterTask\CounterTask\bin\Debug\netcoreapp3.1\CounterTask.pdb
+G:\My Drive\Uni\SEMESTER 2\OOP\LABS\2.1\CounterTask\CounterTask\obj\Debug\netcoreapp3.1\CounterTask.csproj.AssemblyReference.cache
+G:\My Drive\Uni\SEMESTER 2\OOP\LABS\2.1\CounterTask\CounterTask\obj\Debug\netcoreapp3.1\CounterTask.AssemblyInfoInputs.cache
+G:\My Drive\Uni\SEMESTER 2\OOP\LABS\2.1\CounterTask\CounterTask\obj\Debug\netcoreapp3.1\CounterTask.AssemblyInfo.cs
+G:\My Drive\Uni\SEMESTER 2\OOP\LABS\2.1\CounterTask\CounterTask\obj\Debug\netcoreapp3.1\CounterTask.csproj.CoreCompileInputs.cache
+G:\My Drive\Uni\SEMESTER 2\OOP\LABS\2.1\CounterTask\CounterTask\obj\Debug\netcoreapp3.1\CounterTask.dll
+G:\My Drive\Uni\SEMESTER 2\OOP\LABS\2.1\CounterTask\CounterTask\obj\Debug\netcoreapp3.1\CounterTask.pdb
+G:\My Drive\Uni\SEMESTER 2\OOP\LABS\2.1\CounterTask\CounterTask\obj\Debug\netcoreapp3.1\CounterTask.genruntimeconfig.cache

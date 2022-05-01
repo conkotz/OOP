@@ -1,0 +1,52 @@
+G:/My Drive/Uni/OOP/CODE/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.exe
+G:/My Drive/Uni/OOP/CODE/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.deps.json
+G:/My Drive/Uni/OOP/CODE/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.json
+G:/My Drive/Uni/OOP/CODE/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.dev.json
+G:/My Drive/Uni/OOP/CODE/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.dll
+G:/My Drive/Uni/OOP/CODE/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.pdb
+G:/My Drive/Uni/OOP/CODE/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csproj.AssemblyReference.cache
+G:/My Drive/Uni/OOP/CODE/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfoInputs.cache
+G:/My Drive/Uni/OOP/CODE/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfo.cs
+G:/My Drive/Uni/OOP/CODE/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csproj.CoreCompileInputs.cache
+G:/My Drive/Uni/OOP/CODE/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.dll
+G:/My Drive/Uni/OOP/CODE/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.pdb
+G:/My Drive/Uni/OOP/CODE/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.genruntimeconfig.cache
+G:/My Drive/Uni/SEMESTER 2/OOP/CODE/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.exe
+G:/My Drive/Uni/SEMESTER 2/OOP/CODE/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.deps.json
+G:/My Drive/Uni/SEMESTER 2/OOP/CODE/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.json
+G:/My Drive/Uni/SEMESTER 2/OOP/CODE/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.dev.json
+G:/My Drive/Uni/SEMESTER 2/OOP/CODE/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.dll
+G:/My Drive/Uni/SEMESTER 2/OOP/CODE/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.pdb
+G:/My Drive/Uni/SEMESTER 2/OOP/CODE/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csproj.AssemblyReference.cache
+G:/My Drive/Uni/SEMESTER 2/OOP/CODE/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfoInputs.cache
+G:/My Drive/Uni/SEMESTER 2/OOP/CODE/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfo.cs
+G:/My Drive/Uni/SEMESTER 2/OOP/CODE/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csproj.CoreCompileInputs.cache
+G:/My Drive/Uni/SEMESTER 2/OOP/CODE/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.dll
+G:/My Drive/Uni/SEMESTER 2/OOP/CODE/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.pdb
+G:/My Drive/Uni/SEMESTER 2/OOP/CODE/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.genruntimeconfig.cache
+/Users/conradkotz/Desktop/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.deps.json
+/Users/conradkotz/Desktop/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.json
+/Users/conradkotz/Desktop/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.dev.json
+/Users/conradkotz/Desktop/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/conradkotz/Desktop/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.pdb
+/Users/conradkotz/Desktop/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csproj.AssemblyReference.cache
+/Users/conradkotz/Desktop/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/conradkotz/Desktop/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfoInputs.cache
+/Users/conradkotz/Desktop/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfo.cs
+/Users/conradkotz/Desktop/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/conradkotz/Desktop/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/conradkotz/Desktop/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.pdb
+/Users/conradkotz/Desktop/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.genruntimeconfig.cache
+G:\My Drive\Uni\SEMESTER 2\OOP\LABS\1.2\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+G:\My Drive\Uni\SEMESTER 2\OOP\LABS\1.2\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+G:\My Drive\Uni\SEMESTER 2\OOP\LABS\1.2\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+G:\My Drive\Uni\SEMESTER 2\OOP\LABS\1.2\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+G:\My Drive\Uni\SEMESTER 2\OOP\LABS\1.2\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+G:\My Drive\Uni\SEMESTER 2\OOP\LABS\1.2\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+G:\My Drive\Uni\SEMESTER 2\OOP\LABS\1.2\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.AssemblyReference.cache
+G:\My Drive\Uni\SEMESTER 2\OOP\LABS\1.2\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+G:\My Drive\Uni\SEMESTER 2\OOP\LABS\1.2\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+G:\My Drive\Uni\SEMESTER 2\OOP\LABS\1.2\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+G:\My Drive\Uni\SEMESTER 2\OOP\LABS\1.2\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+G:\My Drive\Uni\SEMESTER 2\OOP\LABS\1.2\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+G:\My Drive\Uni\SEMESTER 2\OOP\LABS\1.2\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache
